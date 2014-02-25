@@ -1,0 +1,17 @@
+
+<header>
+<p>posted by BGB, November 15, 2012</p>
+</header>
+<article>
+<h1>Low and Slow</h1>
+  <p>This week I am <em>extremely</em> excited about a new cooking technique called <dfn>sous vide</dfn>. In sous vide cooking, you submerge the food (usually vacuum-sealed in plastic) into a water bath that is precisely set to the target temperature you want the food to be cooked to. In his book, <cite>Cooking for Geeks</cite>, Jeff Potter describes it as ultra-low-temperature poaching.</p>
+
+  <p>Next month, we will be serving <b>Sous Vide Salmon</b> with Dill Hollandaise. To reserve a seat at the chef table, contact us before <u>November 30</u>.</p>
+
+<address><p>blackgoose@example.com
+  555-336-1800</p></address>
+
+  <small>
+<p> Warning: Sous vide cooked salmon is not pasteurized. Avoid it if you are pregnant or have immunity issues.</p>
+  </small>
+</article>
